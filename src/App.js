@@ -11,7 +11,7 @@ function App() {
     
       <h1>{myName}</h1>
       <p>Ласкаво просимо до нашого сайту!</p>
-      <img
+      <img alt="apple"
       src="https://www.buildrestfoods.com/wp-content/uploads/2020/08/green-apply-416x416.jpg"
       />
        <h1>{data.name}</h1>
